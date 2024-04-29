@@ -1,7 +1,5 @@
 # review-images
 
-Images that can be used in apps as reviews or ratings.
-
 Example Python code to get image:
 
 ```Python
